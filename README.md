@@ -1,4 +1,4 @@
-# logging
+# numlock
 
-Minimal logging framework for labview. Meant to be useable on roborio.
+Minimal tdms wrapper for numerical logging. Intended for use on the roborio
 ATM Compress old files on InitLog.vi does not work
